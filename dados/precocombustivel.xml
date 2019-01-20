@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>A2E_Engine</Author>
+  <LastAuthor>Ordanoc</LastAuthor>
+  <Created>2019-01-20T09:22:19Z</Created>
+  <LastSaved>2019-01-20T19:41:43Z</LastSaved>
+  <Company>Investintech.com Inc.</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8580</WindowHeight>
+  <WindowWidth>14865</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>45</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="156"/>
+   <Column ss:Width="43.5"/>
+   <Column ss:Width="374.25"/>
+   <Column ss:Index="10" ss:Width="86.25"/>
+   <Row>
+    <Cell><Data ss:Type="String">Fornecedores</Data></Cell>
+    <Cell><Data ss:Type="String">Bandeira</Data></Cell>
+    <Cell><Data ss:Type="String">Endereço</Data></Cell>
+    <Cell><Data ss:Type="String">Diesel</Data></Cell>
+    <Cell><Data ss:Type="String">Diesel S-10</Data></Cell>
+    <Cell><Data ss:Type="String">Diesel S-10 Aditivado</Data></Cell>
+    <Cell><Data ss:Type="String">Etanol</Data></Cell>
+    <Cell><Data ss:Type="String">Etanol Aditivado</Data></Cell>
+    <Cell><Data ss:Type="String">Gasolina</Data></Cell>
+    <Cell><Data ss:Type="String">Gasolina Aditivada</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AUTO POSTO INDUSTRIAL</Data></Cell>
+    <Cell><Data ss:Type="String">BR</Data></Cell>
+    <Cell><Data ss:Type="String">AVENIDA POÇOS DE CALDAS, 506 - SANTOS DUMONT</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3580</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3680</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2980</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4690</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4760</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AUTO POSTO ITAJUBÁ</Data></Cell>
+    <Cell><Data ss:Type="String">Branca</Data></Cell>
+    <Cell><Data ss:Type="String">RUA TERTULIANO PINTO RIBEIRO, 270 - VARGINHA</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3470</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2999</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4581</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4611</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AUTO POSTO NACIONAL</Data></Cell>
+    <Cell><Data ss:Type="String">Branca</Data></Cell>
+    <Cell><Data ss:Type="String">RUA OLEGÁRIO MACIEL , 303 - SANTO ANTONIO</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3490</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2980</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4590</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4590</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO AVALON</Data></Cell>
+    <Cell><Data ss:Type="String">BR</Data></Cell>
+    <Cell><Data ss:Type="String">AV. DOUTOR VICENTE SANCHES, 22 - VARGINHA</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3459</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3059</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4699</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4799</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO AVALON - CENTRO</Data></Cell>
+    <Cell><Data ss:Type="String">Branca</Data></Cell>
+    <Cell><Data ss:Type="String">RUA FRANCISCO MASSELLI, 224 - CENTRO</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3459</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2999</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4599</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4649</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO AVALON 2 (P4)</Data></Cell>
+    <Cell><Data ss:Type="String">Branca</Data></Cell>
+    <Cell><Data ss:Type="String">AV. DOUTOR VICENTE SANCHES, 865 - VARGINHA</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3459</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2999</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4599</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4649</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO AVENIDA</Data></Cell>
+    <Cell><Data ss:Type="String">BR</Data></Cell>
+    <Cell><Data ss:Type="String">AV. ENG. PEDRO FONSECA PAIVA, 6 - AVENIDA</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3559</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3059</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4699</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4799</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO BOA VISTA</Data></Cell>
+    <Cell><Data ss:Type="String">BR</Data></Cell>
+    <Cell><Data ss:Type="String">AV. SILVESTRE ANTÔNIO JUNQUEIRA FERRAZ, 45 - BOA VISTA</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3459</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3559</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3059</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4699</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4799</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO FLAMBOYANT</Data></Cell>
+    <Cell><Data ss:Type="String">Shell</Data></Cell>
+    <Cell><Data ss:Type="String">AV. PADRE LOURENÇO, 3566 - MORRO GRANDE</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3499</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3599</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2999</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4669</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4769</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO ITAVEL</Data></Cell>
+    <Cell><Data ss:Type="String">BR</Data></Cell>
+    <Cell><Data ss:Type="String">AV. UMBELINA CHIARADIA, 279 - SÃO VICENTE</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3650</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3060</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4680</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4750</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO ITAVEL 2</Data></Cell>
+    <Cell><Data ss:Type="String">BR</Data></Cell>
+    <Cell><Data ss:Type="String">AV. CORONEL CARNEIRO JUNIOR, 408 - CENTRO</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3699</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3059</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4699</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4799</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO LEÃO DO SUL</Data></Cell>
+    <Cell><Data ss:Type="String">Ipiranga</Data></Cell>
+    <Cell><Data ss:Type="String">AVENIDA PADRE LOURENÇO, 2252 - SÃO SEBASTIÃO</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3700</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4650</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4730</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO MINEIRO</Data></Cell>
+    <Cell><Data ss:Type="String">Shell</Data></Cell>
+    <Cell><Data ss:Type="String">AV. PRESIDENTE TANCREDO DE ALMEIDA NEVES, 756 - SÃO JUDAS TADEU</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3699</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3099</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3249</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4749</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5079</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO PEDRA AMARELA</Data></Cell>
+    <Cell><Data ss:Type="String">Branca</Data></Cell>
+    <Cell><Data ss:Type="String">AV. PRES. TANCREDO ALMEIDA NEVES, 1075 - SANTOS DUMONT</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3299</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2899</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4479</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4499</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO PIRULITO</Data></Cell>
+    <Cell><Data ss:Type="String">Branca</Data></Cell>
+    <Cell><Data ss:Type="String">RUA BELARMINO MENEZES, 40 - SÃO VICENTE</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3350</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2999</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4599</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4649</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO SETE ESTRELAS</Data></Cell>
+    <Cell><Data ss:Type="String">Branca</Data></Cell>
+    <Cell><Data ss:Type="String">AV. PRESIDENTE TANCREDO DE ALMEIDA NEVES, 336 - SÃO JUDAS TADEU</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3299</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2899</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4499</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4499</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POSTO TORRÃO</Data></Cell>
+    <Cell><Data ss:Type="String">Branca</Data></Cell>
+    <Cell><Data ss:Type="String">AV. PRES. TANCREDO DE ALMEIDA NEVES, 845 - SÃO JUDAS TADEU</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3299</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3349</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2899</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4499</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4499</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SOCIEDADE DOS MOTORISTAS</Data></Cell>
+    <Cell><Data ss:Type="String">Shell</Data></Cell>
+    <Cell><Data ss:Type="String">AV. PADRE LOURENÇO DA COSTA MOREIRA, 409 - SÃO SEBASTIÃO</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3590</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3130</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4740</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4790</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R19C10</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
